@@ -1,0 +1,88 @@
+.sivtsev {
+    height: 1000px;
+    width: 500px;
+    position: absolute;
+    text-align-last: justify;
+    font-size: 10px;
+    line-height: 20px;
+    text-shadow: 2px 2px 5px #06051e;
+
+}
+
+.sight01 {
+    font-size: 10em;
+}
+
+.sight02 {
+    font-size: 9em;
+}
+
+.sight03 {
+    font-size: 8em;
+}
+
+.sight04 {
+    font-size: 7em;
+}
+
+.sight05 {
+    font-size: 6em;
+}
+
+.sight06 {
+    font-size: 5em;
+}
+
+.sight07 {
+    font-size: 4em;
+}
+
+.sight08 {
+    font-size: 3em;
+}
+
+.sight09 {
+    font-size: 2.5em;
+    text-shadow: -1px 1px 2px #06051e,
+    1px -1px 2px #06051e,
+    -1px -1px 2px #06051e,
+    1px 1px 2px #06051e;
+}
+
+.sight10 {
+    font-size: 2em;
+    text-shadow: -1px 1px 2px #06051e,
+    1px -1px 2px #06051e,
+    -1px -1px 2px #06051e,
+    1px 1px 2px #06051e,
+    2px -2px 2px #06051e,
+    -2px 2px 2px #06051e;
+}
+
+.sight15 {
+    font-size: 1.5em;
+    text-shadow: 0 -1px 1px #06051e,
+    -1px 0 1px #06051e,
+    -1px -1px 1px #06051e,
+    1px 1px 1px #06051e,
+    2px 2px 2px #06051e,
+    -2px 2px 2px #06051e,
+    -2px -2px 2px #06051e,
+    2px -2px 2px #06051e;
+}
+
+.sight20 {
+    text-shadow: 0 -.5px .5px #06051e,
+    -.5px 0 .5px #06051e,
+    -.5px -.5px .5px #06051e,
+    .5px .5px 1px #06051e,
+    1px 1px 2px #06051e,
+    1px -1px 2px #06051e,
+    -1px 1px 2px #06051e,
+    -1px -1px 2px #06051e;
+}
+
+.uline {
+    border: red 2px solid;
+
+}
